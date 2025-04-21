@@ -7,5 +7,10 @@
   {
     "name": "Yasith Plugin",
     "entry": "./plugins/Yasith-plugin/plugin.js"
+  },
+
+  {
+    "name": "Banula-Plugin",
+    "entry": "./plugins/banula-plugin/plugin.js"
   }
 ]
