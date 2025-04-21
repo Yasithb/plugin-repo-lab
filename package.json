@@ -4,6 +4,6 @@
   "description": "Educational plugin-based repository for in-class learning",
   "main": "app.js",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "chalk": "^4.1.0"
   }
 }
